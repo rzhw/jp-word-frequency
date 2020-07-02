@@ -1,0 +1,5 @@
+cmake==3.17.3
+Cython==0.29.20
+nagisa==0.2.6
+python-twitter==3.5
+regex==2020.6.8
